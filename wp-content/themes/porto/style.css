@@ -1,0 +1,53 @@
+.mega-menu-item.mega-menu-fullwidth.dropdown .dropdown-menu {
+box-sizing: border-box;
+width: 10%;
+}
+
+body {
+margin:0;
+padding:0;
+font:700 MONTSERRAT;
+background-color:#c0c0c0;
+color: #989997;
+}
+
+.post-content li {
+color: #777777;
+    font-family: arvo; 
+    font-size: 90%;
+}
+
+div.img-thumbnail {
+	background-color: #c0c0c0;	
+	border: none;
+	margin-bottom: -50em;
+}
+
+.staffnames {
+	padding-left: 10em;
+	padding-right: 10em;
+	}
+
+.staffnamescontainer {
+	margin-left: 40%;
+	margin-right: 40%;
+}
+.portfolio-list {
+	text-align: center;
+}
+
+.addthis_button_facebook_like {
+}
+
+.addthis_button_tweet {
+margin-left: 10%;
+}
+
+.addthis_button_pinterest_pinit {
+margin-left: 5%;
+margin-right: 12%;
+}
+
+.post-content {
+font-style: normal;
+}

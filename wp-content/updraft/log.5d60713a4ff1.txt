@@ -1,0 +1,320 @@
+0000.035 (0) Opened log file at time: Sun, 15 Mar 2015 13:58:11 +0000 on http://scalechange.com
+0000.133 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.51 WP: 4.0.1 PHP: 5.3.29 (Linux server108.web-hosting.com 2.6.32-531.17.1.lve1.2.60.el6.x86_64 #1 SMP Tue Jul 8 11:25:32 EDT 2014 x86_64) MySQL: 5.5.36-cll-lve Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 168M (used: 51.7M | 52M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0002.182 (0) Free space on disk containing Updraft's temporary directory: 1022169.5 Mb
+0002.246 (0) Tasks: Backup files: 1 (schedule: every4hours) Backup DB:  (schedule: every4hours)
+0002.248 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0002.253 (0) Requesting semaphore lock (fd)
+0002.257 (0) Set semaphore last lock (fd) time to 2015-03-15 13:58:13
+0002.259 (0) Semaphore lock (fd) complete
+0002.270 (0) Backup run: resumption=0, nonce=5d60713a4ff1, begun at=1426427891 (2s ago), job type=backup
+0002.274 (0) Scheduling a resumption (1) after 438 seconds (1426428331) in case this run gets aborted
+0002.374 (0) Checking if we have a zip executable available
+0002.381 (0) Testing: /usr/bin/zip
+0002.565 (0) Output: zip warning: binziptest/test.zip not found or empty
+0002.687 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0002.689 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0002.692 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=127) (out=105) (deflated 17%)
+0002.694 (0) Output: total bytes=127, compressed=105 -> 17% savings
+0002.756 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=134) (out=109) (deflated 19%)
+0002.762 (0) Output: total bytes=261, compressed=214 -> 18% savings
+0002.793 (0) Working binary zip found: /usr/bin/zip
+0002.897 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0002.934 (0) Creation of backups of directories: beginning
+0002.964 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0005.289 (0) Total entities for the zip file: 277 directories, 1872 files (0 skipped as non-modified), 35.6 Mb
+0005.342 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0005.358 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0005.385 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0005.438 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0005.483 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0005.490 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.5 Mb, 1872 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0016.619 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: size is now: 4.90 Mb
+0016.627 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 600 files added (on-disk size: 4988.1 Kb)
+0016.633 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 700 files added (on-disk size: 4988.1 Kb)
+0016.637 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 800 files added (on-disk size: 4988.1 Kb)
+0016.641 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 900 files added (on-disk size: 4988.1 Kb)
+0016.645 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1000 files added (on-disk size: 4988.1 Kb)
+0016.646 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.1 Mb, 1872 files batched, 501 (1002) added so far); re-opening (prior size: 4988.1 Kb)
+0061.622 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: size is now: 8.40 Mb
+0061.673 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1100 files added (on-disk size: 8610.3 Kb)
+0061.694 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1200 files added (on-disk size: 8610.3 Kb)
+0061.727 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1300 files added (on-disk size: 8610.3 Kb)
+0061.750 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1400 files added (on-disk size: 8610.3 Kb)
+0061.777 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1500 files added (on-disk size: 8610.3 Kb)
+0061.806 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.6 Mb, 1872 files batched, 501 (1503) added so far); re-opening (prior size: 8610.3 Kb)
+0097.723 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: size is now: 13.70 Mb
+0097.758 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1600 files added (on-disk size: 14052.9 Kb)
+0097.787 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1700 files added (on-disk size: 14052.9 Kb)
+0097.802 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip.tmp: 1800 files added (on-disk size: 14052.9 Kb)
+0133.893 (0) Created plugins zip (0) - 15798.8 Kb in 128.9 s (122.6 Kb/s) (SHA1 checksum: 662dd030462f116e0b27a8056400850f9d0150e0)
+0133.899 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0134.093 (0) Total entities for the zip file: 167 directories, 944 files (0 skipped as non-modified), 12.6 Mb
+0134.319 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0134.537 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0134.542 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0134.545 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0134.549 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0134.550 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.6 Mb, 944 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0147.862 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: size is now: 3.60 Mb
+0147.915 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 600 files added (on-disk size: 3695.5 Kb)
+0147.919 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 700 files added (on-disk size: 3695.5 Kb)
+0147.923 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 800 files added (on-disk size: 3695.5 Kb)
+0147.927 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: 900 files added (on-disk size: 3695.5 Kb)
+0171.234 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip.tmp: size is now: 8.00 Mb
+0171.306 (0) Created themes zip (0) - 8205.5 Kb in 37.2 s (220.3 Kb/s) (SHA1 checksum: 547d5f0c997286cc697bef7a2d3d733cf65e5265)
+0171.311 (0) Deleting old temporary file: ziRAvkIB
+0171.328 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0171.361 (0) Looking for candidates to back up in: /home/wwwsugbs/public_html/wp-content/uploads
+0171.391 (0) finding files: 2015: adding to list (1)
+0171.393 (0) finding files: 2014: adding to list (2)
+0171.394 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0171.662 (0) Total entities for the zip file: 12 directories, 1295 files (0 skipped as non-modified), 89.2 Mb
+0171.666 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0171.670 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0171.674 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0171.675 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (25.5 Mb, 1295 files batched, 316 (316) added so far); re-opening (prior size: 0 Kb)
+0221.451 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: size is now: 24.00 Mb
+0221.458 (0) A useful amount of data was added after this amount of zip processing: 50.2 s (normalised: 49.2 s, rate: 520.6 Kb/s)
+0221.464 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 400 files added (on-disk size: 24592.5 Kb)
+0221.469 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 500 files added (on-disk size: 24592.5 Kb)
+0221.473 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 600 files added (on-disk size: 24592.5 Kb)
+0221.478 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 700 files added (on-disk size: 24592.5 Kb)
+0221.481 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (25 Mb, 1295 files batched, 418 (734) added so far); re-opening (prior size: 24592.5 Kb)
+0301.362 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: size is now: 48.40 Mb
+0301.376 (0) A useful amount of data was added after this amount of zip processing: 80.1 s (normalised: 80.1 s, rate: 319.8 Kb/s)
+0301.385 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 800 files added (on-disk size: 49535.4 Kb)
+0301.399 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 900 files added (on-disk size: 49535.4 Kb)
+0301.407 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 1000 files added (on-disk size: 49535.4 Kb)
+0301.419 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 1100 files added (on-disk size: 49535.4 Kb)
+0301.430 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (25 Mb, 1295 files batched, 410 (1144) added so far); re-opening (prior size: 49535.4 Kb)
+0414.048 (0) The time we have been running (414) is approaching the resumption interval (438) - increasing resumption interval to 445
+0419.401 (0) The time we have been running (419.4) is approaching the resumption interval (445) - increasing resumption interval to 450
+0425.602 (0) The time we have been running (425.6) is approaching the resumption interval (450) - increasing resumption interval to 456
+0431.380 (0) The time we have been running (431.3) is approaching the resumption interval (456) - increasing resumption interval to 462
+0432.624 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: size is now: 71.70 Mb
+0432.632 (0) The time we have been running (432.6) is approaching the resumption interval (462) - increasing resumption interval to 463
+0433.270 (0) The scheduled resumption is within 45 seconds - will reschedule
+0433.273 (0) Rescheduling resumption 1: moving to 508 seconds from now (1426428832)
+0433.289 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 463 + 45 = 508
+0433.303 (0) A useful amount of data was added after this amount of zip processing: 132 s (normalised: 132 s, rate: 194 Kb/s)
+0433.320 (0) Zip: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip.tmp: 1200 files added (on-disk size: 73459.3 Kb)
+0517.088 (0) The time we have been running (517) is approaching the resumption interval (508) - increasing resumption interval to 548
+0522.630 (0) The time we have been running (522.6) is approaching the resumption interval (548) - increasing resumption interval to 553
+0529.302 (0) The time we have been running (529.3) is approaching the resumption interval (553) - increasing resumption interval to 560
+0535.310 (0) The time we have been running (535.3) is approaching the resumption interval (560) - increasing resumption interval to 566
+0541.509 (0) The time we have been running (541.5) is approaching the resumption interval (566) - increasing resumption interval to 572
+0545.562 (0) The time we have been running (545.5) is approaching the resumption interval (572) - increasing resumption interval to 576
+0545.971 (0) Created uploads zip (0) - 87196.3 Kb in 374.4 s (232.9 Kb/s) (SHA1 checksum: f8d15087a68b4a790062b2c1621d63516cef7614)
+0545.983 (0) Beginning backup of other directories found in the content directory (index: 0)
+0545.993 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0546.009 (0) Looking for candidates to back up in: /home/wwwsugbs/public_html/wp-content
+0546.025 (0) finding files: uploads: skipping: this is the uploads directory
+0546.044 (0) finding files: index.php: adding to list (1)
+0546.060 (0) finding files: plugins: skipping: this is the plugins directory
+0546.076 (0) finding files: upgrade: skipping: excluded by options
+0546.091 (0) finding files: cache: skipping: excluded by options
+0546.107 (0) finding files: themes: skipping: this is the themes directory
+0546.122 (0) finding files: wp-cache-config.php: adding to list (2)
+0546.138 (0) finding files: advanced-cache.php: adding to list (3)
+0546.154 (0) finding files: updraft: skipping: this is the updraft directory
+0546.337 (0) Total entities for the zip file: 0 directories, 3 files (0 skipped as non-modified), 0 Mb
+0546.363 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-others.zip.tmp: size is now: 0.00 Mb
+0546.369 (0) The time we have been running (546.3) is approaching the resumption interval (576) - increasing resumption interval to 577
+0546.381 (0) Created others zip (0) - 2.8 Kb in 0 s (58.4 Kb/s) (SHA1 checksum: be23abac6f8ce43e03c6b7b6347ca7a711d77b46)
+0546.402 (0) Saving backup status to database (elements: 8)
+0546.412 (0) Beginning creation of database dump (WordPress DB)
+0546.441 (0) Testing: /usr/bin/mysqldump
+0546.469 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0546.498 (0) Table sc_options: Total expected rows (approximate): 428
+0546.743 (0) Table sc_options: Total rows added: 426 in 0.24 seconds
+0546.793 (0) Table sc_options: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_options.table.gz - 170.5 Kb)
+0546.817 (0) Table sc_users: Total expected rows (approximate): 568
+0546.863 (0) Table sc_users: Total rows added: 568 in 0.04 seconds
+0546.891 (0) Table sc_users: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_users.table.gz - 36.3 Kb)
+0546.926 (0) Table sc_usermeta: Total expected rows (approximate): 6911
+0547.073 (0) Table sc_usermeta: Total rows added: 6911 in 0.14 seconds
+0547.101 (0) Table sc_usermeta: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_usermeta.table.gz - 47.1 Kb)
+0547.121 (0) The time we have been running (547.1) is approaching the resumption interval (577) - increasing resumption interval to 578
+0547.138 (0) Table sc_commentmeta: Total expected rows (approximate): 124
+0547.154 (0) Table sc_commentmeta: Total rows added: 124 in 0.00 seconds
+0547.179 (0) Table sc_commentmeta: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_commentmeta.table.gz - 1 Kb)
+0547.185 (0) Table sc_comments: Total expected rows (approximate): 64
+0547.211 (0) Table sc_comments: Total rows added: 64 in 0.01 seconds
+0547.231 (0) Table sc_comments: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_comments.table.gz - 12.7 Kb)
+0547.235 (0) Table sc_links: Total expected rows (approximate): 0
+0547.256 (0) Table sc_links: Total rows added: 0 in 0.00 seconds
+0547.284 (0) Table sc_links: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_links.table.gz - 0.4 Kb)
+0547.310 (0) Table sc_postmeta: Total expected rows (approximate): 2465
+0547.442 (0) Table sc_postmeta: Total rows added: 2465 in 0.12 seconds
+0547.470 (0) Table sc_postmeta: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_postmeta.table.gz - 64.2 Kb)
+0547.475 (0) Table sc_posts: Total expected rows (approximate): 1069
+0548.168 (0) Table sc_posts: Total rows added: 1069 in 0.66 seconds
+0548.219 (0) Table sc_posts: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_posts.table.gz - 388.4 Kb)
+0548.223 (0) The time we have been running (548.2) is approaching the resumption interval (578) - increasing resumption interval to 579
+0548.244 (0) Table sc_term_relationships: Total expected rows (approximate): 1915
+0548.277 (0) Table sc_term_relationships: Total rows added: 1915 in 0.02 seconds
+0548.301 (0) Table sc_term_relationships: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_term_relationships.table.gz - 6.7 Kb)
+0548.314 (0) Table sc_term_taxonomy: Total expected rows (approximate): 828
+0548.349 (0) Table sc_term_taxonomy: Total rows added: 828 in 0.02 seconds
+0548.364 (0) Table sc_term_taxonomy: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_term_taxonomy.table.gz - 5.6 Kb)
+0548.394 (0) Table sc_terms: Total expected rows (approximate): 808
+0548.420 (0) Table sc_terms: Total rows added: 808 in 0.02 seconds
+0548.461 (0) Table sc_terms: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_terms.table.gz - 9.8 Kb)
+0548.466 (0) Table sc_microblogposter_accounts: Total expected rows (approximate): 0
+0548.481 (0) Table sc_microblogposter_accounts: Total rows added: 0 in 0.00 seconds
+0548.497 (0) Table sc_microblogposter_accounts: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_microblogposter_accounts.table.gz - 0.4 Kb)
+0548.503 (0) Table sc_microblogposter_logs: Total expected rows (approximate): 0
+0548.520 (0) Table sc_microblogposter_logs: Total rows added: 0 in 0.00 seconds
+0548.552 (0) Table sc_microblogposter_logs: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_microblogposter_logs.table.gz - 0.4 Kb)
+0548.557 (0) Table sc_redirection_404: Total expected rows (approximate): 2743
+0548.664 (0) Table sc_redirection_404: Total rows added: 2743 in 0.09 seconds
+0548.689 (0) Table sc_redirection_404: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_404.table.gz - 46.3 Kb)
+0548.694 (0) Table sc_redirection_groups: Total expected rows (approximate): 2
+0548.707 (0) Table sc_redirection_groups: Total rows added: 2 in 0.00 seconds
+0548.729 (0) Table sc_redirection_groups: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_groups.table.gz - 0.4 Kb)
+0548.734 (0) Table sc_redirection_items: Total expected rows (approximate): 33
+0548.746 (0) Table sc_redirection_items: Total rows added: 33 in 0.00 seconds
+0548.764 (0) Table sc_redirection_items: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_items.table.gz - 2 Kb)
+0548.769 (0) Table sc_redirection_logs: Total expected rows (approximate): 140
+0548.784 (0) Table sc_redirection_logs: Total rows added: 140 in 0.01 seconds
+0548.819 (0) Table sc_redirection_logs: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_logs.table.gz - 5.3 Kb)
+0548.824 (0) Table sc_redirection_modules: Total expected rows (approximate): 2
+0548.827 (0) Table sc_redirection_modules: Total rows added: 2 in 0.00 seconds
+0548.828 (0) Table sc_redirection_modules: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_modules.table.gz - 0.4 Kb)
+0548.832 (0) Table sc_revslider_css: Total expected rows (approximate): 60
+0548.835 (0) Table sc_revslider_css: Total rows added: 60 in 0.00 seconds
+0549.987 (0) Table sc_revslider_css: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_css.table.gz - 2.3 Kb)
+0549.993 (0) The time we have been running (550) is approaching the resumption interval (579) - increasing resumption interval to 580
+0550.011 (0) Table sc_revslider_layer_animations: Total expected rows (approximate): 1
+0550.024 (0) Table sc_revslider_layer_animations: Total rows added: 1 in 0.00 seconds
+0550.053 (0) Table sc_revslider_layer_animations: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_layer_animations.table.gz - 0.4 Kb)
+0550.057 (0) The time we have been running (550) is approaching the resumption interval (580) - increasing resumption interval to 581
+0550.078 (0) Table sc_revslider_settings: Total expected rows (approximate): 1
+0550.090 (0) Table sc_revslider_settings: Total rows added: 1 in 0.00 seconds
+0550.127 (0) Table sc_revslider_settings: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_settings.table.gz - 0.3 Kb)
+0550.152 (0) Table sc_revslider_sliders: Total expected rows (approximate): 2
+0550.165 (0) Table sc_revslider_sliders: Total rows added: 2 in 0.00 seconds
+0550.213 (0) Table sc_revslider_sliders: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_sliders.table.gz - 1.6 Kb)
+0550.237 (0) Table sc_revslider_slides: Total expected rows (approximate): 1
+0550.251 (0) Table sc_revslider_slides: Total rows added: 1 in 0.00 seconds
+0550.295 (0) Table sc_revslider_slides: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_slides.table.gz - 1.4 Kb)
+0550.321 (0) Table sc_revslider_static_slides: Total expected rows (approximate): 1
+0550.334 (0) Table sc_revslider_static_slides: Total rows added: 1 in 0.00 seconds
+0550.362 (0) Table sc_revslider_static_slides: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_static_slides.table.gz - 0.3 Kb)
+0550.388 (0) Table sc_rpd_related_pages: Total expected rows (approximate): 1
+0550.399 (0) Table sc_rpd_related_pages: Total rows added: 1 in 0.00 seconds
+0550.428 (0) Table sc_rpd_related_pages: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_related_pages.table.gz - 0.5 Kb)
+0550.454 (0) Table sc_rpd_relations: Total expected rows (approximate): 0
+0550.466 (0) Table sc_rpd_relations: Total rows added: 0 in 0.00 seconds
+0550.498 (0) Table sc_rpd_relations: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_relations.table.gz - 0.3 Kb)
+0550.519 (0) Table sc_rpd_settings: Total expected rows (approximate): 0
+0550.533 (0) Table sc_rpd_settings: Total rows added: 0 in 0.00 seconds
+0550.557 (0) Table sc_rpd_settings: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_settings.table.gz - 0.3 Kb)
+0550.582 (0) Table sc_rpd_titles: Total expected rows (approximate): 1
+0550.595 (0) Table sc_rpd_titles: Total rows added: 1 in 0.00 seconds
+0550.623 (0) Table sc_rpd_titles: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_titles.table.gz - 0.3 Kb)
+0550.627 (0) Table sc_sharebar: Total expected rows (approximate): 6
+0550.645 (0) Table sc_sharebar: Total rows added: 6 in 0.00 seconds
+0550.674 (0) Table sc_sharebar: finishing file (backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_sharebar.table.gz - 0.9 Kb)
+0550.678 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_options.table.gz (1/29): adding to final database dump
+0550.875 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_users.table.gz (2/29): adding to final database dump
+0550.977 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_usermeta.table.gz (3/29): adding to final database dump
+0551.095 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_commentmeta.table.gz (4/29): adding to final database dump
+0551.130 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_comments.table.gz (5/29): adding to final database dump
+0551.159 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_links.table.gz (6/29): adding to final database dump
+0551.161 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_postmeta.table.gz (7/29): adding to final database dump
+0551.247 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_posts.table.gz (8/29): adding to final database dump
+0551.709 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_term_relationships.table.gz (9/29): adding to final database dump
+0551.755 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_term_taxonomy.table.gz (10/29): adding to final database dump
+0551.778 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_terms.table.gz (11/29): adding to final database dump
+0551.814 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_microblogposter_accounts.table.gz (12/29): adding to final database dump
+0551.824 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_microblogposter_logs.table.gz (13/29): adding to final database dump
+0551.839 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_404.table.gz (14/29): adding to final database dump
+0551.938 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_groups.table.gz (15/29): adding to final database dump
+0551.969 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_items.table.gz (16/29): adding to final database dump
+0551.984 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_logs.table.gz (17/29): adding to final database dump
+0552.000 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_redirection_modules.table.gz (18/29): adding to final database dump
+0552.015 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_css.table.gz (19/29): adding to final database dump
+0552.032 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_layer_animations.table.gz (20/29): adding to final database dump
+0552.046 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_settings.table.gz (21/29): adding to final database dump
+0552.062 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_sliders.table.gz (22/29): adding to final database dump
+0552.078 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_slides.table.gz (23/29): adding to final database dump
+0552.093 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_revslider_static_slides.table.gz (24/29): adding to final database dump
+0552.109 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_related_pages.table.gz (25/29): adding to final database dump
+0552.124 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_relations.table.gz (26/29): adding to final database dump
+0552.140 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_settings.table.gz (27/29): adding to final database dump
+0552.156 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_rpd_titles.table.gz (28/29): adding to final database dump
+0552.171 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db-table-sc_sharebar.table.gz (29/29): adding to final database dump
+0552.187 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db.gz: finished writing out complete database file (784 Kb)
+0552.224 (0) Total database tables backed up: 29 (backup_2015-03-15-2058_calehange_5d60713a4ff1-db.gz, size: 823217, checksum (SHA1): 4ed897c7779de4379a8c1a5059500b2b2d42d0ff)
+0552.227 (0) Saving backup history
+0553.390 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0553.403 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0553.419 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0553.433 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0553.449 (0) backup_2015-03-15-2058_calehange_5d60713a4ff1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0553.467 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0553.482 (0) Cloud backup selection: none
+0553.496 (0) No remote despatch: user chose no remote backup service
+0553.512 (0) Recording as successfully uploaded: backup_2015-03-15-2058_calehange_5d60713a4ff1-plugins.zip (631d0bf28ad9492b8b97722458f39414)
+0553.532 (0) Recording as successfully uploaded: backup_2015-03-15-2058_calehange_5d60713a4ff1-themes.zip (881c9f391e8a0ff849ccc77f649eaba6)
+0553.546 (0) Recording as successfully uploaded: backup_2015-03-15-2058_calehange_5d60713a4ff1-uploads.zip (5e854a1513532116bd545cb95e06405e)
+0553.562 (0) Recording as successfully uploaded: backup_2015-03-15-2058_calehange_5d60713a4ff1-others.zip (42166e9630056794807b892994fe3273)
+0553.578 (0) Recording as successfully uploaded: backup_2015-03-15-2058_calehange_5d60713a4ff1-db.gz (cd85d39d6bd51904adf15ff71ff31a65)
+0553.593 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=9, retain_db=9
+0553.605 (0) Number of backup sets in history: 10
+0553.625 (0) Examining backup set with datestamp: 1426427891 (Mar 15 2015 13:58:11)
+0553.640 (0) 1426427891: db: this set includes a database (backup_2015-03-15-2058_calehange_5d60713a4ff1-db.gz); db count is now 1
+0553.659 (0) The time we have been running (553.6) is approaching the resumption interval (581) - increasing resumption interval to 584
+0553.672 (0) 1426427891: this backup set remains non-empty (1/1); will retain in history
+0553.687 (0) Examining backup set with datestamp: 1426413632 (Mar 15 2015 10:00:32)
+0553.703 (0) 1426413632: db: this set includes a database (backup_2015-03-15-1700_calehange_47b6f46d8f5b-db.gz); db count is now 2
+0553.719 (0) 1426413632: this backup set remains non-empty (1/1); will retain in history
+0553.734 (0) Examining backup set with datestamp: 1426399330 (Mar 15 2015 06:02:10)
+0553.749 (0) 1426399330: db: this set includes a database (backup_2015-03-15-1302_calehange_a60ec57811aa-db.gz); db count is now 3
+0553.767 (0) 1426399330: this backup set remains non-empty (1/1); will retain in history
+0553.781 (0) Examining backup set with datestamp: 1426384725 (Mar 15 2015 01:58:45)
+0553.796 (0) 1426384725: db: this set includes a database (backup_2015-03-15-0858_calehange_d08f744e5298-db.gz); db count is now 4
+0553.814 (0) 1426384725: this backup set remains non-empty (1/1); will retain in history
+0553.828 (0) Examining backup set with datestamp: 1426370258 (Mar 14 2015 21:57:38)
+0553.843 (0) 1426370258: db: this set includes a database (backup_2015-03-15-0457_calehange_b9c31f1168ab-db.gz); db count is now 5
+0553.860 (0) 1426370258: this backup set remains non-empty (1/1); will retain in history
+0553.874 (0) Examining backup set with datestamp: 1426355828 (Mar 14 2015 17:57:08)
+0553.890 (0) 1426355828: db: this set includes a database (backup_2015-03-15-0057_calehange_73db9b9a2069-db.gz); db count is now 6
+0553.907 (0) 1426355828: this backup set remains non-empty (1/1); will retain in history
+0553.921 (0) Examining backup set with datestamp: 1426341447 (Mar 14 2015 13:57:27)
+0553.937 (0) 1426341447: db: this set includes a database (backup_2015-03-14-2057_calehange_58a6d060079c-db.gz); db count is now 7
+0553.954 (0) 1426341447: this backup set remains non-empty (1/1); will retain in history
+0553.968 (0) Examining backup set with datestamp: 1426327131 (Mar 14 2015 09:58:51)
+0553.984 (0) 1426327131: db: this set includes a database (backup_2015-03-14-1658_calehange_5f79f2ced336-db.gz); db count is now 8
+0554.000 (0) 1426327131: this backup set remains non-empty (1/1); will retain in history
+0554.015 (0) Examining backup set with datestamp: 1426312992 (Mar 14 2015 06:03:12)
+0554.032 (0) 1426312992: db: this set includes a database (backup_2015-03-14-1303_calehange_540603ecbb42-db.gz); db count is now 9
+0554.051 (0) The time we have been running (554) is approaching the resumption interval (584) - increasing resumption interval to 585
+0554.064 (0) 1426312992: this backup set remains non-empty (1/1); will retain in history
+0554.078 (0) Examining backup set with datestamp: 1426298255 (Mar 14 2015 01:57:35)
+0554.093 (0) 1426298255: db: this set includes a database (backup_2015-03-14-0857_calehange_916f7bc8f8d1-db.gz); db count is now 10
+0554.109 (0) 1426298255: db: over retain limit (9); will delete this database
+0554.124 (0) Delete file: backup_2015-03-14-0857_calehange_916f7bc8f8d1-db.gz, service=none
+0554.140 (0) Deleting local copy (backup_2015-03-14-0857_calehange_916f7bc8f8d1-db.gz)
+0554.157 (0) plugins: 1426298255: over retain limit (9); will delete this file (backup_2015-03-14-0857_calehange_916f7bc8f8d1-plugins.zip)
+0554.171 (0) themes: 1426298255: over retain limit (9); will delete this file (backup_2015-03-14-0857_calehange_916f7bc8f8d1-themes.zip)
+0554.187 (0) uploads: 1426298255: over retain limit (9); will delete this file (backup_2015-03-14-0857_calehange_916f7bc8f8d1-uploads.zip)
+0554.203 (0) others: 1426298255: over retain limit (9); will delete this file (backup_2015-03-14-0857_calehange_916f7bc8f8d1-others.zip)
+0554.214 (0) Delete file: backup_2015-03-14-0857_calehange_916f7bc8f8d1-plugins.zip, service=none
+0554.222 (0) Deleting local copy (backup_2015-03-14-0857_calehange_916f7bc8f8d1-plugins.zip)
+0554.236 (0) Delete file: backup_2015-03-14-0857_calehange_916f7bc8f8d1-themes.zip, service=none
+0554.249 (0) Deleting local copy (backup_2015-03-14-0857_calehange_916f7bc8f8d1-themes.zip)
+0554.276 (0) Delete file: backup_2015-03-14-0857_calehange_916f7bc8f8d1-uploads.zip, service=none
+0554.283 (0) Deleting local copy (backup_2015-03-14-0857_calehange_916f7bc8f8d1-uploads.zip)
+0554.313 (0) Delete file: backup_2015-03-14-0857_calehange_916f7bc8f8d1-others.zip, service=none
+0554.330 (0) Deleting local copy (backup_2015-03-14-0857_calehange_916f7bc8f8d1-others.zip)
+0554.358 (0) 1426298255: this backup set is now empty; will remove from history
+0554.367 (0) 1426298255: deleting log file (log.916f7bc8f8d1.txt)
+0554.371 (0) Retain: saving new backup history (sets now: 9) and finishing retain operation
+0554.388 (0) Resume backup (5d60713a4ff1, 0): finish run
+0554.403 (0) Decremented the semaphore (fd) by 1
+0554.414 (0) Semaphore (fd) unlocked
+0554.429 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0554.449 (0) No email will/can be sent - the user has not configured an email address.
+0554.460 (0) The backup apparently succeeded and is now complete
